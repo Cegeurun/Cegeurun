@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cegeurun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cegeurun&layout=donut&theme=light" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cegeurun&layout=compact&theme=light&langs_count=10&hide_title=false&hide_border=false" alt="languages" height="150" />
 
 
   
@@ -58,5 +58,4 @@
 
 <br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cegeurun&layout=compact&theme=light&langs_count=10&hide_title=false&hide_border=false" alt="languages" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=light&area=true" alt="contribution graph" />
