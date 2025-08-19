@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#fdfdf6; padding: 25px; border-radius: 16px;">
 
-<img src="https://komarev.com/ghpvc/?username=cegeurun&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<h1>𝓈𝓊𝓅 𝒷𝓇𝒶𝒽 😎🤝😎, 𝓽𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓼𝓽𝓸𝓹𝓹𝓲𝓷𝓰 𝓫𝔂<img src="https://komarev.com/ghpvc/?username=cegeurun&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/></h1>
 
 ---
 
