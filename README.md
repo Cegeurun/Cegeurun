@@ -58,3 +58,6 @@
 <br clear="both">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=light&area=true" alt="contribution graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cegeurun&layout=donut&theme=light" height="200" />
+
