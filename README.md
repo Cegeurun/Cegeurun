@@ -65,4 +65,4 @@
 
 <br clear="both">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=light&area=true" alt="contribution graph" />****
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=light&area=true" alt="contribution graph" />
