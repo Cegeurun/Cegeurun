@@ -1,0 +1,23 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}] # Update every hour
+  workflow_dispatch: # Manual trigger
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: "" # (optional) e.g. "html,css" if you want to hide them
+          plugin_languages_limit: 0 # 0 = show ALL languages
+          plugin_languages_threshold: 0% # show even tiny ones like SQL
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes # analyze by bytes/commits for accurate %
+
