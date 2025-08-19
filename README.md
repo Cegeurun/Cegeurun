@@ -46,12 +46,12 @@
 </div>
 
 ###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=D14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=0077B5&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=white&logoColor=F16061&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
 </div>
+
 
 ###
 
