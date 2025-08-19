@@ -11,10 +11,26 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # output file
           filename: github-metrics.svg
+
+          # your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
+
+          # disable profile/repo sections
           base: ""
+
+          # enable languages plugin
           plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage, bytes-size
+
+          # pie chart instead of bars
+          plugin_languages_mode: pie
+
+          # show all detected languages
           plugin_languages_limit: 0
+
+          # show percentages + file sizes
+          plugin_languages_details: percentage, bytes-size
+
+          # categories to include (SQL included here)
+          plugin_languages_categories: programming, markup, data
