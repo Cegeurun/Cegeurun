@@ -60,5 +60,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=light&area=true" alt="contribution graph" />
 
-<img src="./github-metrics.svg" alt="Languages chart" />
-
