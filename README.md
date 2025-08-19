@@ -58,5 +58,5 @@
 
 <br clear="both">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=light&area=true" alt="contribution graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cegeurun&layout=compact&theme=light&langs_count=10&hide_title=false&hide_border=false" alt="languages" />
 
