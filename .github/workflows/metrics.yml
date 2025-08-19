@@ -1,12 +1,11 @@
 name: Metrics
 
 on:
-  # Runs every day at midnight UTC
-  schedule: [{cron: "0 0 * * *"}]
-  # Allow running manually from Actions tab
+  # Run once a day
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger
   workflow_dispatch:
-  # Update when pushing to main branch
-  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
@@ -14,12 +13,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: languages.svg
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          output_action: commit        # 👈 saves the file into your repo
           plugin_languages: yes
-          plugin_languages_limit: 0    # show ALL languages
-          plugin_languages_threshold: 0% # include even tiny ones like SQL
+          plugin_languages_ignored: ""
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 0
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
