@@ -1,10 +1,8 @@
 name: Metrics
 
 on:
-  # Run once a day
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
@@ -15,9 +13,8 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: repositories
+          base: ""
           plugin_languages: yes
-          plugin_languages_ignored: ""
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 0
-          plugin_languages_sections: most-used
