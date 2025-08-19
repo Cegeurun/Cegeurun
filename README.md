@@ -57,6 +57,4 @@
 
 <br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cegeurun&" alt="cegeurun" /></p>
-
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cegeurun&theme=dracula&area=true" alt="contribution graph" />
