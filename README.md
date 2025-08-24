@@ -6,10 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cegeurun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cegeurun&layout=compact&theme=light&langs_count=10&hide_title=false&hide_border=false" alt="languages" height="150" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)"/></a> </p>
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cegeurun&theme=flat&no-frame=true" alt="cegeurun" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cegeurun&theme=flat&no-frame=true" alt="cegeurun" /></a> </p>
 </div>
 
 ###
